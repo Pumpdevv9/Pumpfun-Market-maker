@@ -1,4 +1,6 @@
 # Open-Source Memecoin Market Maker
+# OpenMM
+# $omm
 
 This project is an **open-source, free-to-use market making framework** designed for memecoins and other micro-cap assets.
 
